@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "A bright and clean modern living room.",
+      "imageUrl": "https://images.unsplash.com/photo-1594214003183-30b0f72abe4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjbGVhbiUyMGxpdmluZyUyMHJvb218ZW58MHx8fHwxNzYwODc4MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean living room"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A smiling woman in her 30s.",
+      "imageUrl": "https://images.unsplash.com/photo-1630939687530-241d630735df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c21pbGluZyUyMHdvbWFufGVufDB8fHx8MTc2MDgzNTgwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling woman"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "A smiling man in his 40s.",
+      "imageUrl": "https://images.unsplash.com/photo-1634136906717-6421833e1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWlsaW5nJTIwbWFufGVufDB8fHx8MTc2MDgzNTgwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling man"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A person in a professional office setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1590650213165-c1fef80648c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjBwZXJzb258ZW58MHx8fHwxNzYwODY1NzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "A smiling young woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1583432144811-0d1f4df02a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b3VuZyUyMHdvbWFufGVufDB8fHx8MTc2MDg2MDY2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "young woman"
+    },
+    {
+      "id": "before-1",
+      "description": "A messy, cluttered kitchen before cleaning.",
+      "imageUrl": "https://images.unsplash.com/photo-1609114215069-74764924d06b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtZXNzeSUyMGtpdGNoZW58ZW58MHx8fHwxNzYwODgwMjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "messy kitchen"
+    },
+    {
+      "id": "after-1",
+      "description": "A sparkling clean and organized kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjbGVhbiUyMGtpdGNoZW58ZW58MHx8fHwxNzYwODUwNjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean kitchen"
+    },
+    {
+      "id": "before-2",
+      "description": "A carpet with a dark stain.",
+      "imageUrl": "https://images.unsplash.com/photo-1749341062775-2f04777d2f18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdGFpbmVkJTIwY2FycGV0fGVufDB8fHx8MTc2MDg5NzU0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stained carpet"
+    },
+    {
+      "id": "after-2",
+      "description": "A clean carpet with no stain.",
+      "imageUrl": "https://images.unsplash.com/photo-1583270042600-6283b25e1b8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjbGVhbiUyMGNhcnBldHxlbnwwfHx8fDE3NjA4OTc1NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean carpet"
+    },
+    {
+      "id": "before-3",
+      "description": "A bathroom with soap scum and water marks.",
+      "imageUrl": "https://images.unsplash.com/photo-1633465253929-0580da0f72fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaXJ0eSUyMGJhdGhyb29tfGVufDB8fHx8MTc2MDg5NzU0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dirty bathroom"
+    },
+    {
+      "id": "after-3",
+      "description": "A shiny, clean bathroom.",
+      "imageUrl": "https://images.unsplash.com/photo-1628602813528-0264682cdc87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xlYW4lMjBiYXRocm9vbXxlbnwwfHx8fDE3NjA4NTc5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean bathroom"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "A placeholder map showing a generic city area.",
+      "imageUrl": "https://images.unsplash.com/photo-1476385822777-70eabacbd41f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MDg1OTQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    }
+  ]
+}
